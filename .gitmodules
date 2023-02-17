@@ -1,3 +1,6 @@
 [submodule "public"]
 	path = public
 	url = https://github.com/alboainin/alboainin.github.io
+[submodule "themes/digital-garden"]
+	path = themes/digital-garden
+	url = https://github.com/alboainin/digital-garden-hugo-theme.git
